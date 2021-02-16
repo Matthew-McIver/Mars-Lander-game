@@ -1,0 +1,417 @@
+# depslib dependency file v1.0
+1611430605 source:c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\include\graphics_lib_functions.c
+	<graphics_lib.h>
+
+1611430605 c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\include\graphics_lib.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+
+1611430606 c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\include\allegro\allegro5\allegro.h
+	"allegro5/base.h"
+	"allegro5/system.h"
+	"allegro5/memory.h"
+	"allegro5/debug.h"
+	"allegro5/error.h"
+	"allegro5/utf8.h"
+	"allegro5/altime.h"
+	"allegro5/events.h"
+	"allegro5/mouse.h"
+	"allegro5/timer.h"
+	"allegro5/keyboard.h"
+	"allegro5/joystick.h"
+	"allegro5/threads.h"
+	"allegro5/display.h"
+	"allegro5/transformations.h"
+	"allegro5/bitmap_io.h"
+	"allegro5/bitmap.h"
+	"allegro5/tls.h"
+	"allegro5/file.h"
+	"allegro5/fshook.h"
+	"allegro5/path.h"
+	"allegro5/fmaths.h"
+	"allegro5/config.h"
+	"allegro5/alcompat.h"
+
+1611430606 c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\include\allegro\allegro5\base.h
+	<errno.h>
+	<limits.h>
+	<limits.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<sys/types.h>
+	<fortify/fortify.h>
+	<dmalloc.h>
+	"allegro5/internal/alconfig.h"
+
+1611430608 c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\include\allegro\allegro5\internal\alconfig.h
+	"allegro5/platform/alplatf.h"
+	"allegro5/platform/aldjgpp.h"
+	"allegro5/platform/alwatcom.h"
+	"allegro5/platform/almngw32.h"
+	"allegro5/platform/aldmc.h"
+	"allegro5/platform/albcc32.h"
+	"allegro5/platform/almsvc.h"
+	"allegro5/platform/albecfg.h"
+	"allegro5/platform/aliphonecfg.h"
+	"allegro5/platform/alosxcfg.h"
+	"allegro5/platform/alqnxcfg.h"
+	"allegro5/platform/alwizcfg.h"
+	"allegro5/platform/alucfg.h"
+	"allegro5/platform/astdint.h"
+	"allegro5/platform/astdbool.h"
+
+1611430609 c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\include\allegro\allegro5\platform\alplatf.h
+
+1611430609 c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\include\allegro\allegro5\platform\alwatcom.h
+	<io.h>
+	<i86.h>
+	<conio.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1611430609 c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\include\allegro\allegro5\platform\almngw32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1611430609 c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\include\allegro\allegro5\platform\aldmc.h
+	<io.h>
+	<fcntl.h>
+	<stdint.h>
+
+1611430609 c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\include\allegro\allegro5\platform\albcc32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1611430609 c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\include\allegro\allegro5\platform\almsvc.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1611430609 c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\include\allegro\allegro5\platform\aliphonecfg.h
+	<fcntl.h>
+	<unistd.h>
+
+1611430609 c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\include\allegro\allegro5\platform\alosxcfg.h
+	"allegro5/platform/alplatf.h"
+
+1611430609 c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\include\allegro\allegro5\platform\alwizcfg.h
+	<fcntl.h>
+	<unistd.h>
+	"allegro5/platform/alplatf.h"
+
+1611430609 c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\include\allegro\allegro5\platform\alucfg.h
+	<fcntl.h>
+	<unistd.h>
+	"alunix.h"
+	"allegro5/platform/alplatf.h"
+
+1611430609 c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\include\allegro\allegro5\platform\alunix.h
+
+1611430609 c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\include\allegro\allegro5\platform\astdint.h
+	<inttypes.h>
+	<stdint.h>
+
+1611430609 c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\include\allegro\allegro5\platform\astdbool.h
+	<stdbool.h>
+
+1611430607 c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\include\allegro\allegro5\system.h
+	"allegro5/config.h"
+	"allegro5/path.h"
+
+1611430606 c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\include\allegro\allegro5\config.h
+	"allegro5/file.h"
+
+1611430606 c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\include\allegro\allegro5\file.h
+	"allegro5/base.h"
+	"allegro5/path.h"
+	"allegro5/utf8.h"
+
+1611430607 c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\include\allegro\allegro5\path.h
+	"allegro5/base.h"
+
+1611430607 c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\include\allegro\allegro5\utf8.h
+	"allegro5/base.h"
+
+1611430607 c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\include\allegro\allegro5\memory.h
+
+1611430606 c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\include\allegro\allegro5\debug.h
+	<assert.h>
+	"allegro5/base.h"
+
+1611430606 c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\include\allegro\allegro5\error.h
+	"allegro5/base.h"
+
+1611430606 c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\include\allegro\allegro5\altime.h
+	"allegro5/base.h"
+
+1611430606 c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\include\allegro\allegro5\events.h
+	"allegro5/base.h"
+
+1611430607 c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\include\allegro\allegro5\mouse.h
+	"allegro5/base.h"
+
+1611430607 c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\include\allegro\allegro5\timer.h
+	"allegro5/base.h"
+
+1611430607 c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\include\allegro\allegro5\keyboard.h
+	"allegro5/base.h"
+	"allegro5/keycodes.h"
+
+1611430607 c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\include\allegro\allegro5\keycodes.h
+
+1611430607 c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\include\allegro\allegro5\joystick.h
+	"allegro5/base.h"
+
+1611430607 c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\include\allegro\allegro5\threads.h
+	"allegro5/altime.h"
+
+1611430606 c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\include\allegro\allegro5\display.h
+	"allegro5/color.h"
+	"allegro5/bitmap.h"
+
+1611430606 c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\include\allegro\allegro5\color.h
+
+1611430606 c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\include\allegro\allegro5\bitmap.h
+	"allegro5/color.h"
+
+1611430607 c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\include\allegro\allegro5\transformations.h
+
+1611430606 c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\include\allegro\allegro5\bitmap_io.h
+	"allegro5/bitmap.h"
+	"allegro5/file.h"
+
+1611430607 c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\include\allegro\allegro5\tls.h
+	"allegro5/base.h"
+
+1611430607 c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\include\allegro\allegro5\fshook.h
+	"allegro5/base.h"
+	"allegro5/path.h"
+	<sys/types.h>
+
+1611430607 c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\include\allegro\allegro5\fmaths.h
+	"allegro5/base.h"
+	"allegro5/fixed.h"
+	"allegro5/inline/fmaths.inl"
+
+1611430607 c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\include\allegro\allegro5\fixed.h
+	"allegro5/base.h"
+
+1611430607 c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\include\allegro\allegro5\inline\fmaths.inl
+
+1611430606 c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\include\allegro\allegro5\alcompat.h
+
+1611430606 c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\include\allegro\allegro5\allegro_primitives.h
+	<allegro5/allegro.h>
+
+1611430606 c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\include\allegro\allegro5\allegro_image.h
+
+1611430606 c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\include\allegro\allegro5\allegro_font.h
+	"allegro5/allegro.h"
+
+1611950772 source:c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\src\allegro_examples\ex_timer.c
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<stdio.h>
+	<stdarg.h>
+	<math.h>
+	"common.c"
+
+1611430616 c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\src\allegro_examples\common.c
+	<stdio.h>
+	<stdarg.h>
+	"allegro5/allegro_native_dialog.h"
+
+1611430606 c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\include\allegro\allegro5\allegro_native_dialog.h
+	"allegro5/allegro.h"
+
+1612923787 source:c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\src\mars_game\main.c
+	<math.h>
+	<stdio.h>
+	<time.h>
+	<windows.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	"level.h"
+	"audio.h"
+	"graphics_lib.h"
+
+1611430619 source:c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\src\allegro_examples\ex_windows.c
+	"allegro5/allegro.h"
+	"allegro5/allegro_font.h"
+	"allegro5/allegro_image.h"
+	<stdlib.h>
+	<time.h>
+	"common.c"
+
+1611430618 source:c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\src\allegro_examples\ex_transform.c
+	<stdio.h>
+	"allegro5/allegro.h"
+	"allegro5/allegro_image.h"
+	"allegro5/allegro_font.h"
+	"allegro5/allegro_primitives.h"
+	<math.h>
+	"common.c"
+
+1612391355 source:c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\src\mars_game\test.c
+	<stdio.h>
+	"test.h"
+
+1612391229 c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\src\mars_game\test.h
+	<stdio.h>
+
+1612389283 source:c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\src\mars_game\test.h
+
+1612719374 source:c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\src\mars_game\models\vector.c
+	<stdio.h>
+	<math.h>
+	"vector.h"
+
+1612719565 c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\src\mars_game\models\vector.h
+	<stdio.h>
+
+1612393850 source:c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\src\mars_game\models\body.c
+	<stdio.h>
+	"body.h"
+
+1612393869 c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\src\mars_game\models\body.h
+	<stdio.h>
+	"vector.h"
+
+1612394346 source:c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\src\mars_game\game.c
+	<stdio.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_primitives.h>
+	"game.h"
+
+1612394382 c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\src\mars_game\game.h
+	<stdio.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	"models/body.h"
+
+1612731085 source:c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\src\mars_game\controllers\physics.c
+	<stdio.h>
+	"physics.h"
+	"controller.h"
+	"../models/vector.h"
+	"../models/body.h"
+	"../models/ship.h"
+
+1612632170 c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\src\mars_game\controllers\physics.h
+	<stdio.h>
+	"../models/body.h"
+	"../models/vector.h"
+	"controller.h"
+
+1611430605 c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\include\allegro\physfs.h
+
+1612642932 c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\src\mars_game\controllers\controller.h
+
+1612635505 source:c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\src\mars_game\controllers\controller.c
+	"controller.h"
+
+1612731923 source:c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\src\mars_game\views\view.c
+	"../models/vector.h"
+	"../models/body.h"
+	"../models/camera.h"
+	"../models/ship.h"
+	"view.h"
+	"strings.h"
+
+1612728696 c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\src\mars_game\views\view.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+
+1612653780 source:c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\src\mars_game\models\camera.c
+	"camera.h"
+	"vector.h"
+
+1612728696 c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\src\mars_game\models\camera.h
+	"vector.h"
+
+1612729609 source:c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\src\mars_game\models\ship.c
+	<stdio.h>
+	<math.h>
+	"ship.h"
+	"vector.h"
+	"../controllers/physics.h"
+
+1612728459 c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\src\mars_game\models\ship.h
+	"body.h"
+
+1612733152 source:c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\src\mars_game\controllers\ship.c
+	"ship.h"
+	"../models/ship.h"
+
+1612729084 c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\src\mars_game\controllers\ship.h
+	"../models/ship.h"
+
+1612737901 source:c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\src\mars_game\mouse.c
+
+1612923787 source:c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\src\mars_game\level.c
+	"level.h"
+
+1612901775 c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\src\mars_game\level.h
+
+1611430605 source:c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\include\amio_lib_functions.c
+	<amio_lib.h>
+
+1611430605 c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\include\amio_lib.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"sndfile.h"
+	"portaudio.h"
+	"portmidi.h"
+	"porttime.h"
+
+1611430612 c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\include\libsndfile\sndfile.h
+	<stdio.h>
+	<sys/types.h>
+
+1611430612 c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\include\portaudio\portaudio.h
+
+1611430612 c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\include\portmidi\portmidi.h
+	<stdint.h>
+
+1611430612 c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\include\portmidi\porttime.h
+	<stdint.h>
+
+1611430615 source:c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\src\audio07.c
+	"amio_lib.h"
+	"conio.h"
+
+1612918634 source:c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\src\mars_game\audio.c
+	"amio_lib.h"
+	"conio.h"
+	"audio.h"
+
+1612917761 c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\src\mars_game\audio.h
+	"amio_lib.h"
+	"conio.h"
+
+1611430615 source:c:\users\matth\onedrive\documents\university of york\intelligent robotics\c programming for msc\clab\src\audio01.c
+	"amio_lib.h"
+
